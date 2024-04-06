@@ -1,0 +1,36 @@
+data-src="/static/images/illustrations/people-buying.svg" // imagem   
+
+
+// css para login - fundo rosa
+
+
+<div class="authentication__illustration"><div></div></div>
+
+<div class="authentication__wrapper"><div class="authentication__illustration"></div><div class="authentication-steps"><span class="authentication-steps__title"></span><div class="steps-router"><div class="steps-router__step   steps-router__step-transition--fade steps-router__step-mount-transition--fade"><div class="sign-in-onboard"><h1 class="sign-in-onboard__title">Falta pouco para matar sua fome!</h1><h2 class="sign-in-onboard__subtitle">Como deseja continuar?</h2><button type="button" role="button" class="btn btn--default btn--facebook btn--size-m btn--iconize btn--full-width" icon="facebook" label="Continuar com Facebook" color="facebook" theme="default" target="" rel=""><span class="icon-marmita icon-marmita--facebook btn__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26" width="50" height="50"><path fill="#3F3E3E" d="M21.125 0H4.875C2.183594 0 0 2.183594 0 4.875v16.25C0 23.816406 2.183594 26 4.875 26h16.25C23.816406 26 26 23.816406 26 21.125V4.875C26 2.183594 23.816406 0 21.125 0zm-.660156 14.003906H18.03125v9.003907h-4.0625v-9.003907h-1.578125V10.96875h1.578125V9.035156C13.96875 6.503906 15.019531 5 18.007813 5h3.023437v3.023438h-1.757812c-1.160157 0-1.238282.429687-1.238282 1.242187l-.003906 1.703125h2.765625z"></path></svg></span><span class="btn__label">Continuar com Facebook</span></button><div class="google-sign-in" data-test-id="google-sign-in"><div class="S9gUrf-YoZ4jf" style="position: relative;"><div></div><iframe src="https://accounts.google.com/gsi/button?width=1046&amp;size=large&amp;client_id=1034609086795-la8tsrbevlrmhk9nu78c8bljs2hs8eng.apps.googleusercontent.com&amp;iframe_id=gsi_595648_626352&amp;as=KAzfwd46MV3o9bhof782PQ" allow="identity-credentials-get" id="gsi_595648_626352" title="Botão &quot;Fazer login com o Google&quot;" style="display: block; position: relative; top: 0px; left: 0px; height: 44px; width: 420px; border: 0px; margin: -2px -10px;"></iframe></div></div><div class="sign-in-onboard__btnContainer"><button type="button" role="button" class="btn btn--default btn--white btn--size-m sign-in-onboard__emailOrPhone" id="phone-btn" color="white" variant="sign-in-onboard__emailOrPhone" label=" Celular" theme="default" target="" rel=""><span class="btn__label"> Celular</span></button><button type="button" role="button" class="btn btn--default btn--white btn--size-m sign-in-onboard__emailOrPhone" id="email-btn" color="white" variant="sign-in-onboard__emailOrPhone" label=" E-mail" theme="default" target="" rel=""><span class="btn__label"> E-mail</span></button></div></div></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div><div class="steps-router__step steps-router__step--invisible steps-router__step-transition--fade-invisible steps-router__step-transition--fade steps-router__step-mount-transition--fade"></div></div><div id="gpt-login-footer" class="ads-banner authentication-steps__ads"></div></div></div>
+
+css: 
+
+    content: "";
+    min-width: 130vh;
+    min-height: 135vh;
+    width: 130vw;
+    height: 130vw;
+    z-index: -1;
+    position: absolute;
+    background-color: #fdedee;
+    border-radius: 0 100% 100%;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 0
+
+
+right: 0;
+    bottom: unset;
+    left: auto;
+    min-width: 130vh;
+    min-height: 135vh;
+    max-width: 80vw;
+    max-height: 80vw;
+    width: 80vw;
+    height: 80vw;
+    transform: translate(15vw,-23%);
